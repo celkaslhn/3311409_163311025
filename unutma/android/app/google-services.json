@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142188671990",
+    "project_id": "unutma-11454",
+    "storage_bucket": "unutma-11454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142188671990:android:e65cdffac8364ba5088dd7",
+        "android_client_info": {
+          "package_name": "com.example.unutma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142188671990-pmd21e4uhsir5samgci8cf6vki4248vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2VcMOfaQauSekCtCGH1m4SnDcd4LUFdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142188671990-pmd21e4uhsir5samgci8cf6vki4248vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
